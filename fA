@@ -1,4 +1,9 @@
 this is file a .
+<<<<<<< HEAD
 things need to be added here.
 third line is added, pls chek. third line xtended.
+=======
+things need to be added here.second line xtended.
+third line is added, pls chek.
+>>>>>>> b2b68a4b9163ef42f64822e6d5404effdeed369a
 3 line is added.
